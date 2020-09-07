@@ -1,0 +1,19 @@
+/* ##################################################
+                          map
+ ##################################################  */
+.map {
+    width: 100vw;
+
+    margin-top: -3vh;
+}
+
+@media (min-width: 48em) {
+  .map {
+      margin-left: -6.5rem;
+      margin-right: -2rem;
+  }
+}
+
+.map__price {
+    height: 100vh;
+}

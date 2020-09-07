@@ -1,0 +1,21 @@
+/* ##################################################
+                          property
+ ##################################################  */
+.property__selector {
+    border-bottom: #333 3px solid;
+    border-radius: 0;
+    font-size: 2rem;
+}
+.property__selector .Select-control {
+    background-color: transparent;
+    border-radius: 0;
+    border-width: 0;
+}
+.property__selector.Select--single>.Select-control .Select-value,
+.property__selector .Select-placeholder {
+    top: 14px;
+}
+
+.property__selector.Select div {
+    vertical-align: middle;
+}

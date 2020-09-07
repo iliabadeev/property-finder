@@ -1,0 +1,8 @@
+# Python 3.7.9
+dash==1.14.*  # plotly + flask
+dash-bootstrap-components==0.10.*
+flask==1.1.*  # server
+gunicorn==20.0.*  # WSGI HTTP Server
+plotly==4.9.*  # visualizer
+requests==2.24.*  # Connection to back end
+pandas==1.1.*  # Tables

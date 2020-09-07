@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Expo 2020 Site",
+    "category": "Landmark",
+    "lat": 24.96065,
+    "lon": 55.15061
+  },
+  {
+    "name": "Marina Mall",
+    "category": "Landmark",
+    "lat": 25.076468,
+    "lon": 55.140713
+  },
+  {
+    "name": "Hamdan Sports Complex",
+    "category": "Landmark",
+    "lat": 25.051205,
+    "lon": 55.318127
+  },
+  {
+    "name": "Motor City",
+    "category": "Landmark",
+    "lat": 25.044903,
+    "lon": 55.239483
+  },
+  {
+    "name": "Jabel Ali",
+    "category": "Landmark",
+    "lat": 25.003448,
+    "lon": 54.990376
+  },
+  {
+    "name": "IMG World Adventures",
+    "category": "Landmark",
+    "lat": 25.082087,
+    "lon": 55.31824
+  },
+  {
+    "name": "Dubai Parks and Resorts",
+    "category": "Landmark",
+    "lat": 24.917759,
+    "lon": 55.000336
+  },
+  {
+    "name": "Dubai Cycling Course",
+    "category": "Landmark",
+    "lat": 25.001188,
+    "lon": 55.30429
+  },
+  {
+    "name": "Sports City and Dubai Swimming Academy",
+    "category": "Landmark",
+    "lat": 25.040945,
+    "lon": 55.219944
+  },
+  {
+    "name": "Downtown Dubai",
+    "category": "Landmark",
+    "lat": 25.193377,
+    "lon": 55.27654
+  },
+  {
+    "name": "Global Village",
+    "category": "Landmark",
+    "lat": 25.070862,
+    "lon": 55.30783
+  },
+  {
+    "name": "Dubai Mall",
+    "category": "Landmark",
+    "lat": 25.198309,
+    "lon": 55.278786
+  },
+  {
+    "name": "Mirdif City Centre",
+    "category": "Landmark",
+    "lat": 25.216318,
+    "lon": 55.407795
+  },
+  {
+    "name": "Ibn Battuta Mall",
+    "category": "Landmark",
+    "lat": 25.044548,
+    "lon": 55.120296
+  },
+  {
+    "name": "Burj Al Arab",
+    "category": "Landmark",
+    "lat": 25.141195,
+    "lon": 55.185577
+  },
+  {
+    "name": "Dubai Internatial Airport (DXB)",
+    "category": "Landmark",
+    "lat": 25.253174,
+    "lon": 55.365673
+  },
+  {
+    "name": "Al Maktoum International Airport (DWC)",
+    "category": "Landmark",
+    "lat": 24.890259,
+    "lon": 55.13628
+  },
+  {
+    "name": "Mall of the Emirates",
+    "category": "Landmark",
+    "lat": 25.118107,
+    "lon": 55.200607
+  },
+  {
+    "name": "Financial Centre",
+    "category": "Metro",
+    "lat": 25.211,
+    "lon": 55.276
+  },
+  {
+    "name": "Al Jafiliya",
+    "category": "Metro",
+    "lat": 25.233,
+    "lon": 55.292
+  },
+  {
+    "name": "Burj Khalifa / Dubai Mall",
+    "category": "Metro",
+    "lat": 25.202,
+    "lon": 55.27
+  },
+  {
+    "name": "Nakheel Harbour & Tower",
+    "category": "Metro",
+    "lat": 25.058,
+    "lon": 55.127
+  },
+  {
+    "name": "Emirates Towers",
+    "category": "Metro",
+    "lat": 25.217,
+    "lon": 55.28
+  },
+  {
+    "name": "Airport Terminal 1",
+    "category": "Metro",
+    "lat": 25.248,
+    "lon": 55.352
+  },
+  {
+    "name": "Sharaf DG",
+    "category": "Metro",
+    "lat": 25.115,
+    "lon": 55.191
+  },
+  {
+    "name": "Noor Bank",
+    "category": "Metro",
+    "lat": 25.156,
+    "lon": 55.228
+  },
+  {
+    "name": "Nakheel",
+    "category": "Metro",
+    "lat": 25.089,
+    "lon": 55.158
+  },
+  {
+    "name": "Al Qiyadah",
+    "category": "Metro",
+    "lat": 25.278,
+    "lon": 55.353
+  },
+  {
+    "name": "Stadium",
+    "category": "Metro",
+    "lat": 25.278,
+    "lon": 55.361
+  },
+  {
+    "name": "GGICO",
+    "category": "Metro",
+    "lat": 25.249,
+    "lon": 55.34
+  },
+  {
+    "name": "Ibn Battuta",
+    "category": "Metro",
+    "lat": 25.046,
+    "lon": 55.117
+  },
+  {
+    "name": "Al Fahidi",
+    "category": "Metro",
+    "lat": 25.258,
+    "lon": 55.297
+  },
+  {
+    "name": "Al Nahda",
+    "category": "Metro",
+    "lat": 25.273,
+    "lon": 55.37
+  },
+  {
+    "name": "Business Bay",
+    "category": "Metro",
+    "lat": 25.191,
+    "lon": 55.26
+  },
+  {
+    "name": "Media City",
+    "category": "Tram",
+    "lat": 25.094,
+    "lon": 55.152
+  },
+  {
+    "name": "Jumeirah Beach Residence 2",
+    "category": "Tram",
+    "lat": 25.074,
+    "lon": 55.132
+  },
+  {
+    "name": "Jumeirah Lakes Towers",
+    "category": "Tram",
+    "lat": 25.072,
+    "lon": 55.138
+  },
+  {
+    "name": "Mina Seyahi",
+    "category": "Tram",
+    "lat": 25.091,
+    "lon": 55.148
+  },
+  {
+    "name": "Jumeirah Lakes Towers",
+    "category": "Metro",
+    "lat": 25.071,
+    "lon": 55.139
+  },
+  {
+    "name": "Emirates",
+    "category": "Metro",
+    "lat": 25.241,
+    "lon": 55.366
+  },
+  {
+    "name": "Rashidiya",
+    "category": "Metro",
+    "lat": 25.23,
+    "lon": 55.391
+  },
+  {
+    "name": "Baniyas Square",
+    "category": "Metro",
+    "lat": 25.269,
+    "lon": 55.307
+  },
+  {
+    "name": "Dubai Marina Mall",
+    "category": "Tram",
+    "lat": 25.076,
+    "lon": 55.142
+  },
+  {
+    "name": "Palm Jumeirah",
+    "category": "Tram",
+    "lat": 25.098,
+    "lon": 55.156
+  },
+  {
+    "name": "Airport Terminal 3",
+    "category": "Metro",
+    "lat": 25.245,
+    "lon": 55.359
+  },
+  {
+    "name": "Etisalat",
+    "category": "Metro",
+    "lat": 25.255,
+    "lon": 55.401
+  },
+  {
+    "name": "Burj Khalifa",
+    "category": "Landmark",
+    "lat": 25.197084,
+    "lon": 55.274303
+  },
+  {
+    "name": "Dubai Internet City",
+    "category": "Metro",
+    "lat": 25.102,
+    "lon": 55.174
+  },
+  {
+    "name": "DAMAC Properties",
+    "category": "Metro",
+    "lat": 25.08,
+    "lon": 55.148
+  },
+  {
+    "name": "First Abu Dhabi Bank",
+    "category": "Metro",
+    "lat": 25.127,
+    "lon": 55.208
+  },
+  {
+    "name": "UAE Exchange",
+    "category": "Metro",
+    "lat": 24.977,
+    "lon": 55.091
+  },
+  {
+    "name": "Al Rigga",
+    "category": "Metro",
+    "lat": 25.263,
+    "lon": 55.324
+  },
+  {
+    "name": "Danube",
+    "category": "Metro",
+    "lat": 25.001,
+    "lon": 55.096
+  },
+  {
+    "name": "Dubai Healthcare City",
+    "category": "Metro",
+    "lat": 25.231,
+    "lon": 55.323
+  },
+  {
+    "name": "ADCB",
+    "category": "Metro",
+    "lat": 25.245,
+    "lon": 55.298
+  },
+  {
+    "name": "Al Qusais",
+    "category": "Metro",
+    "lat": 25.263,
+    "lon": 55.387
+  },
+  {
+    "name": "Dubai Airport Free Zone",
+    "category": "Metro",
+    "lat": 25.27,
+    "lon": 55.375
+  },
+  {
+    "name": "World Trade Centre",
+    "category": "Metro",
+    "lat": 25.225,
+    "lon": 55.285
+  },
+  {
+    "name": "Deira City Centre",
+    "category": "Metro",
+    "lat": 25.255,
+    "lon": 55.33
+  },
+  {
+    "name": "Al Ghubaiba",
+    "category": "Metro",
+    "lat": 25.265,
+    "lon": 55.289
+  },
+  {
+    "name": "Abu Baker Al Siddique",
+    "category": "Metro",
+    "lat": 25.271,
+    "lon": 55.333
+  },
+  {
+    "name": "Salah Al Din",
+    "category": "Metro",
+    "lat": 25.27,
+    "lon": 55.321
+  },
+  {
+    "name": "Jumeirah Beach Residence 1",
+    "category": "Tram",
+    "lat": 25.08,
+    "lon": 55.138
+  },
+  {
+    "name": "Al Jadaf",
+    "category": "Metro",
+    "lat": 25.225,
+    "lon": 55.334
+  },
+  {
+    "name": "Abu Hail",
+    "category": "Metro",
+    "lat": 25.275,
+    "lon": 55.346
+  },
+  {
+    "name": "Al Ras",
+    "category": "Metro",
+    "lat": 25.269,
+    "lon": 55.294
+  },
+  {
+    "name": "Union",
+    "category": "Metro",
+    "lat": 25.266,
+    "lon": 55.314
+  },
+  {
+    "name": "Dubai Marina",
+    "category": "Tram",
+    "lat": 25.081,
+    "lon": 55.147
+  },
+  {
+    "name": "Marina Towers",
+    "category": "Tram",
+    "lat": 25.086,
+    "lon": 55.15
+  },
+  {
+    "name": "Knowledge Village",
+    "category": "Tram",
+    "lat": 25.104,
+    "lon": 55.162
+  },
+  {
+    "name": "Al Sufouh",
+    "category": "Tram",
+    "lat": 25.108,
+    "lon": 55.165
+  },
+  {
+    "name": "Energy",
+    "category": "Metro",
+    "lat": 25.026,
+    "lon": 55.101
+  },
+  {
+    "name": "BurJuman",
+    "category": "Metro",
+    "lat": 25.255,
+    "lon": 55.304
+  },
+  {
+    "name": "Mall of the Emirates",
+    "category": "Metro",
+    "lat": 25.121,
+    "lon": 55.2
+  },
+  {
+    "name": "Oud Metha",
+    "category": "Metro",
+    "lat": 25.244,
+    "lon": 55.316
+  },
+  {
+    "name": "Palm Deira",
+    "category": "Metro",
+    "lat": 25.276,
+    "lon": 55.301
+  },
+  {
+    "name": "Creek",
+    "category": "Metro",
+    "lat": 25.219,
+    "lon": 55.339
+  }
+]
