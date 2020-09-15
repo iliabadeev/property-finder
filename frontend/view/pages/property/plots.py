@@ -18,7 +18,7 @@ def table(information: 'list'):
         page_action='native',
         page_size=20,
         row_selectable=False,
-        cell_selectable=False,
+        cell_selectable=True,
         style_as_list_view=True,
         style_cell={'textAlign': 'center'},
         style_data_conditional=[{'if': {'row_index': 'odd'},
