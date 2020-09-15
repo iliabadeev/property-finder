@@ -52,7 +52,9 @@ Structure:
 - [frontend/connection](frontend/connection) contains connection to the BackEnd.
 - [frontend/view](frontend/view) contains all layouts.
 
-**How to run**:  
+**How to run**:
+*Make sure the backend is up and running*  
+`$ cd frontend`  
 `$ python wsgi.py`  
 *If you use venv - there is requirements.txt*
 *!Keep the terminal open!*  
